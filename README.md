@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: fake that he is afradi of height 
+- ⚡ Fun fact: fake that he is afraid of height 
 
 <!---
 KurtEzekiel/KurtEzekiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
